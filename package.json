@@ -1,0 +1,14 @@
+{
+  "name": "luoguangcong",
+  "version": "0.0.0",
+  "description": "my css component",
+  "style": "less/main.less",
+  "author": "LGC",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
+    "less": "^2.7.1"
+  }
+}
